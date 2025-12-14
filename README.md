@@ -20,6 +20,8 @@
 
 ## Notes
 This was a commission requested by Fox, who asked for it to be posted publicly for everyone to enjoy. The dead city is actually multiple parts, with different areas to discover. 
+There is one preset pawn, a naked man start. For other starts, you can copy the map with Save Maps, or use character editor + dev tools to edit the pawn and add things.
+
 
 ---
 
